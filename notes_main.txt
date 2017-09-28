@@ -1,1 +1,10 @@
 learning notes Tensorflow.org
+
+
+
+
+
+so this is a new start
+
+
+lets go!
